@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1716416522 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\implementaciones dinamicas\implementaciones dinamicas\piladinamica\pilasdinamicas\ej6.c
+	<stdio.h>
+	"tdapilad.h"
+	<stdlib.h>
+	<string.h>
+
+1716411479 c:\bauti facultad\caece\algoritmos y estructura de datos 1\implementaciones dinamicas\implementaciones dinamicas\piladinamica\pilasdinamicas\tdapilad.h
+
+1716333869 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\implementaciones dinamicas\implementaciones dinamicas\piladinamica\pilasdinamicas\tdapilad.c
+	"tdapilad.h"
+	<stdlib.h>
+

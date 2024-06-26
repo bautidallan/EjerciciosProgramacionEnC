@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1715730325 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\colas\ej3colas\tdacola.c
+	"tdacola.h"
+
+1715730307 c:\bauti facultad\caece\algoritmos y estructura de datos 1\colas\ej3colas\tdacola.h
+
+1715730287 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\colas\ej3colas\tdapila.c
+	"tdapila.h"
+
+1715730270 c:\bauti facultad\caece\algoritmos y estructura de datos 1\colas\ej3colas\tdapila.h
+
+1715808648 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\colas\ej3colas\ej3.c
+	<stdio.h>
+	<string.h>
+	"tdacola.h"
+	"tdapila.h"
+

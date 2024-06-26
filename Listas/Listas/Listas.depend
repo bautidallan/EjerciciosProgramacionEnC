@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717380571 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\listas\listas\ej4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

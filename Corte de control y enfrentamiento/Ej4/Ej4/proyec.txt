@@ -1,0 +1,3 @@
+RTYI  60
+BBYI  45
+AALO  20

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716581489 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\implementaciones dinamicas\implementaciones dinamicas\coladinamica\ej6\ej6\tdacolad.c
+	"tdacolad.h"
+	<stdlib.h>
+
+1716583409 c:\bauti facultad\caece\algoritmos y estructura de datos 1\implementaciones dinamicas\implementaciones dinamicas\coladinamica\ej6\ej6\tdacolad.h
+
+1716839298 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\implementaciones dinamicas\implementaciones dinamicas\coladinamica\ej6\ej6\ej6.c
+	<stdio.h>
+	"tdacolad.h"
+

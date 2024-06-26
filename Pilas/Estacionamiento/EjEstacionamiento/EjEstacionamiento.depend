@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1715729693 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\pilas\estacionamiento\ejestacionamiento\main.c
+	<stdio.h>
+	"tdapila.h"
+	<string.h>
+
+1715651550 c:\bauti facultad\caece\algoritmos y estructura de datos 1\pilas\estacionamiento\ejestacionamiento\tdapila.h
+	<string.h>
+
+1715729552 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\pilas\estacionamiento\ejestacionamiento\tdapila.c
+	<string.h>
+	<stdio.h>
+	"tdapila.h"
+

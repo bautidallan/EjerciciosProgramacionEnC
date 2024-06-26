@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1715201980 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\pilas\ej6\ej6\ej6.c
+	<stdio.h>
+	"tdapila.h"
+
+1715199055 c:\bauti facultad\caece\algoritmos y estructura de datos 1\pilas\ej6\ej6\tdapila.h
+
+1715199067 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\pilas\ej6\ej6\tdapila.c
+	"tdapila.h"
+
+1715210770 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\pilas\ej6\ej6.c
+	<stdio.h>
+	"tdapila.h"
+
+1715210495 c:\bauti facultad\caece\algoritmos y estructura de datos 1\pilas\ej6\tdapila.h
+
+1715199067 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\pilas\ej6\tdapila.c
+	"tdapila.h"
+

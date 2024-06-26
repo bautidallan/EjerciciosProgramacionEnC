@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716241396 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\implementaciones dinamicas\implementaciones dinamicas\ej1.c
+	"string.h"
+	<stdlib.h>
+
+1716258892 source:c:\bauti facultad\caece\algoritmos y estructura de datos 1\implementaciones dinamicas\implementaciones dinamicas\ej2.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

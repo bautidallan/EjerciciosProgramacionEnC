@@ -1,0 +1,17 @@
+Algoritmos 1
+Repasar punteros.
+a=3
+&a = Direccion de memoria de la variable
+*a= a lo que apunta esa variable , esto solo se puede si la variable
+ es puntero.Por lo general cuando se pasa como parametro se usa el &
+y dsp el * .Por ej si tengo la funcion :
+         void inter (float *a,float *b ){
+
+          float aux ;
+          aux=*a;
+          *a=*b;
+          *b=aux;   // a=b tamb es valido xq al parametro ser *, dentro
+                    // de la funcion es puntero 
+}
+define es para definir constante
+Las funciones se pueden definir antes o dsp del main, se usa hacerlo dsp
